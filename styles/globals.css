@@ -1,0 +1,62 @@
+html,
+body {
+  background:#E3EEF8;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+.content h1 {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: -2.11px;
+    color: #1F1F1F;
+    margin: 27px 0px 20px 0px;
+}
+
+
+input,textarea {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.9px;
+    max-width: 100%;
+    height: 60px;
+    background: #EEF4F5;
+    border-radius: 3px;
+    padding-left: 25px;
+    border: 0;
+    margin-top: 20px;
+
+}
+button {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    min-width: 100%;
+    height: 55px;
+    border-radius: 3px;
+    border-color: #FC593B;
+    padding: 0px 15px;
+    background: #FC593B;
+    margin-top: 15px;
+
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
